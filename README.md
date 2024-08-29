@@ -1,4 +1,4 @@
-Welcome to the Rust Studies Repository! This repository is dedicated to learning and exploring the Rust programming language. Whether you are a beginner or an experienced developer, this repository aims to provide resources, examples, and exercises to help you improve your Rust skills.
+Welcome to the Rust Studies Repository!! This repository is dedicated to learning and exploring the Rust programming language. Whether you are a beginner or an experienced developer, this repository aims to provide resources, examples, and exercises to help you improve your Rust skills.
 
 ## Getting Started
 
